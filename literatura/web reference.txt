@@ -1,0 +1,5 @@
+https://www.packtpub.com/mapt/book/web_development/9781784398026/1/ch01lvl1sec10/javafx-history
+
+https://en.wikipedia.org/wiki/JavaFX
+
+https://codelatte.wordpress.com/2013/11/06/the-history-of-javafx/
