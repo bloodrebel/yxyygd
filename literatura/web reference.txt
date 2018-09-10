@@ -5,3 +5,5 @@ https://codelatte.wordpress.com/2013/11/06/the-history-of-javafx/  -povijest
 https://docs.oracle.com/javafx/2/api/javafx/fxml/doc-files/introduction_to_fxml.html  - za FXML
 
 https://hr.wikipedia.org/wiki/CSS - CSS
+
+http://laris.fesb.hr/java/mouse.htm - za event handlere
