@@ -7,3 +7,5 @@ https://docs.oracle.com/javafx/2/api/javafx/fxml/doc-files/introduction_to_fxml.
 https://hr.wikipedia.org/wiki/CSS - CSS
 
 http://laris.fesb.hr/java/mouse.htm - za event handlere
+
+https://docs.oracle.com/javase/8/scene-builder-2/get-started-tutorial/overview.htm#JSBGS164 - SceneBuilder
