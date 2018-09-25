@@ -11,3 +11,9 @@ http://laris.fesb.hr/java/mouse.htm - za event handlere
 https://docs.oracle.com/javase/8/scene-builder-2/get-started-tutorial/overview.htm#JSBGS164 - SceneBuilder
 
 https://web.math.pmf.unizg.hr/nastava/rp2/pred8/pred8.html - Dretve
+
+http://www.guigarage.com/javafx-training-tutorials/ - slika JavaFX Logo
+
+https://gluonhq.com/products/scene-builder/ - scene Builder logo
+
+https://jaxenter.com/20-javafx-real-world-applications-123653.html - slike javafx aplikacija
