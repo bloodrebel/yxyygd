@@ -4,7 +4,7 @@ https://www.totalphase.com/blog/2017/06/what-is-a-protocol-analyzer/
 
 https://arstechnica.com/information-technology/2016/09/the-power-of-protocol-analyzers/
 
-https://www.itprotoday.com/compute-engines/6-network-protocol-analyzers
+https://www.itprotoday.com/compute-engines/6-network-protocol-analyzers - Mane
 
 https://www.techopedia.com/definition/25323/packet-analyzer
 
@@ -19,3 +19,7 @@ https://www.totalphase.com/blog/2017/07/what-is-a-packet-sniffer/
 http://www.ferret.com.au/c/tekmark-australia/new-tektronix-tpi4000-protocol-analysers-allow-users-to-test-multiple-serial-protocols-on-a-single-instrument-n1828556 - slika
 
 https://seclists.org/wireshark/2009/Oct/att-466/image001.jpg - slika
+
+https://www.tme.eu/gb/details/tp240141/development-kits-others/total-phase/aardvark-i2cspi-host-adapter/ - slika
+
+https://www.totalphase.com/products/promira-serial/ - slika
